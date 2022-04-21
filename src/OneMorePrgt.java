@@ -9,5 +9,6 @@ public class OneMorePrgt {
         System.out.println("Next string ant it has grey color. After update ib git this line will get new color");
         System.out.println("Fives trying to record or try use git status");
         int a= 6;
+        System.out.println("Next step with web site ");
     }
 }
