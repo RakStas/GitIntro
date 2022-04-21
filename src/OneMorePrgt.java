@@ -6,6 +6,7 @@ public class OneMorePrgt {
         int digit =5;
         int num=5;
         System.out.println(digit+num);
+        System.out.println("Next string ant it has grey color. After update ib git this line will get new color");
 
     }
 }
